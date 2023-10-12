@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\bin\Debug\Tumakov.exe.config
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\bin\Debug\Tumakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\bin\Debug\Tumakov.pdb
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\obj\Debug\Tumakov.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\obj\Debug\Tumakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\obj\Debug\Tumakov.exe
+C:\Users\ganie\source\repos\yankibtw\KFU-5th lesson\Tumakov\obj\Debug\Tumakov.pdb
